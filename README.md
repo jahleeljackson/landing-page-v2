@@ -39,6 +39,15 @@ const CONFIG = {
 2. Set `CONFIG.aboutImage` to that path.
 3. Redeploy. The placeholder is replaced by the photo.
 
+### Credibility logos (About)
+
+UVA V-Sabre and Booz Allen marks live in `images/`:
+
+- `images/uva-vsabre.png`
+- `images/booz-allen-logo.svg`
+
+Swap those files to update the logos next to the About blurb.
+
 ### Scenarios (audit PDF example)
 
 1. Export or collage your audit PDF pages into `images/scenarios.png` (or `.jpg`).
